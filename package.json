@@ -1,0 +1,16 @@
+{
+  "name": "hotdevserver",
+  "version": "1.0.0",
+  "description": "`hotdevserver` is a single-file zero-dependency development web server with hot-reload, written in node.js, only using node-native dependencies. No `npm install` needed.",
+  "bin": "hotdevserver.js",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lea Rosema",
+  "license": "Unlicense"
+}
